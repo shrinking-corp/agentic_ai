@@ -1,0 +1,2 @@
+OPENAI_API_KEY = "tvoj-openai-api-kluc"
+MCP_SERVER_URL = "http://localhost:8000/sse"
