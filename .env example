@@ -1,2 +1,5 @@
-OPENAI_API_KEY = "tvoj-openai-api-kluc"
-MCP_SERVER_URL = "http://localhost:8000/sse"
+OPENAI_API_KEY="your-openai-api-key"
+OPENAI_MODEL="gpt-4o-mini"
+MCP_TRANSPORT="stdio"
+MCP_SERVER_SCRIPT="../mcp_server/server.py"
+MCP_SERVER_URL=""
